@@ -1,0 +1,37 @@
+.grid-container {
+    display: grid;
+    gap: 10px;
+  }
+  
+  .grid-row {
+    display: flex;
+    gap: 5px;
+  }
+  
+  .grid-cell {
+    width: 50px;
+    height: 50px;
+    border: 2px solid gray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  .green {
+    background-color: green;
+    color: white;
+  }
+  
+  .yellow {
+    background-color: yellow;
+    color: black;
+  }
+  
+  .gray {
+    background-color: gray;
+    color: white;
+  }
+  

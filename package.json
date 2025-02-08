@@ -1,0 +1,52 @@
+{
+  "name": "wordle-clone",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "cra-template": "1.2.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-scripts": "^5.0.1",
+    "webpack": "^5.97.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "description": "its a game",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k-hema16/wordle.git"
+  },
+  "keywords": [
+    "first"
+  ],
+  "author": "hema",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/k-hema16/wordle/issues"
+  },
+  "homepage": "https://github.com/k-hema16/wordle#readme"
+}

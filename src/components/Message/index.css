@@ -1,0 +1,19 @@
+.message {
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 5px;
+  }
+  
+  .win {
+    background-color: green;
+    color: white;
+  }
+  
+  .lose {
+    background-color: red;
+    color: white;
+  }
+  
